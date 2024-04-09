@@ -1,0 +1,21 @@
+
+:root {
+    --main-color: #ffd8b1;
+    --second-color: #8b00ff;
+}
+
+main {
+    background-color: var(--main-color);
+}
+
+.body {
+    background-color: var(--main-color);
+}
+
+header {
+    background-color: var(--second-color);
+}
+
+footer {
+    background-color: var(--second-color);
+}
